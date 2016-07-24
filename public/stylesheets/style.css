@@ -1,0 +1,38 @@
+html, body {
+  margin: 0;
+}
+
+.sprite {
+  height: 100px;
+  width: 100px;
+}
+
+.sprite img {
+  max-width: 100%;
+}
+
+#container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+}
+
+#pacman {
+
+}
+
+#inky {
+
+}
+
+#pinky {
+
+}
+
+#blinky {
+
+}
+
+#clyde {
+
+}
